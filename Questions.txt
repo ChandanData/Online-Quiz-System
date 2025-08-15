@@ -1,0 +1,2068 @@
+Which of the following is a valid identifier in Python? |2value|value_2|value-2|value 2|2
+Which of these is not a primitive data type in Java? |int|float|boolean|String|4
+Which of the following is used to create virtual environments in Python? |pip|venv|conda|virtualenv|2
+Which of these is a valid SQL command? |SELECT|FETCH|PULL|RETRIEVE|1
+Which of these is a backend framework? |Angular|Vue|Django|React|3
+Which of the following is used to inspect network traffic? |Wireshark|Docker|Git|Postman|1
+Which of these is a hashing algorithm? |SHA-256|AES|RSA|DES|1
+Which of these is a valid HTTP status code for success? |200|404|500|403|1
+Which of the following is used for styling HTML? |CSS|JS|SQL|XML|1
+Which of these is a valid loop in Python? |for|repeat|iterate|loop|1
+Which of these is not a cloud service model? |IaaS|PaaS|SaaS|CaaS|4
+Which of these is used to manage packages in Node.js? |npm|pip|yarn|brew|1
+Which of these is a valid Git command? |git push|git send|git upload|git transfer|1
+Which of these is a strongly typed language? |Java|Python|JavaScript|PHP|1
+Which of these is a valid relational database? |MongoDB|MySQL|Redis|Cassandra|2
+Which of these is used to define a class in Java? |function|def|class|public class|4
+Which of these is a valid way to declare a variable in JavaScript? |var x|int x|x := 5|declare x|1
+Which of these is not a valid data type in C? |int|float|char|string|4
+Which of these is used to deploy web apps? |Heroku|GitHub|VS Code|Slack|1
+Which of these is a valid Python library for data analysis? |NumPy|TensorFlow|Pandas|OpenCV|3
+Which of these is used for container orchestration? |Docker|Kubernetes|Git|Ansible|2
+Which of these is a valid way to start a thread in Java? |start()|run()|execute()|begin()|1
+Which of these is a valid Linux command to change directory? |cd|chdir|move|goto|1
+Which of these is used to secure web communication? |SSL|FTP|SMTP|HTTP|1
+Which of these is a valid way to comment in Python? |// comment|/* comment */|# comment|-- comment|3
+Which of these is used to store key-value pairs in Python? |list|tuple|set|dictionary|4
+Which of these is a valid way to create an array in Java? |int[] arr|array arr|int arr[]|arr = int[]|1
+Which of these is not a valid HTTP method? |GET|POST|PUT|SEND|4
+Which of these is used to test APIs? |Postman|Jira|Slack|GitHub|1
+Which of these is a valid way to declare a constant in Java? |const|final|static|immutable|2
+Which of these is a valid way to handle exceptions in Python? |try-catch|try-except|try-finally|catch-throw|2
+Which of these is a valid way to install a Python package? |pip install|python install|pkg install|setup install|1
+Which of these is used to manage dependencies in Java? |npm|pip|Maven|Yarn|3
+Which of these is a valid way to define a function in JavaScript? |function myFunc()|def myFunc()|func myFunc()|method myFunc()|1
+Which of these is used to write unit tests in Python? |unittest|pytest|nose|all of the above|4
+Which of these is a valid way to declare a list in Python? |list = []|list = {}|list = ()|list = <>|1
+Which of these is used to create responsive web designs? |Bootstrap|React|Vue|Angular|1
+Which of these is a valid way to start a Docker container? |docker run|docker start|docker begin|docker execute|1
+Which of these is a valid way to loop through a dictionary in Python? |for key in dict|for key, value in dict.items()|for value in dict|for dict in key|2
+Which of these is a valid way to connect to a database in Python? |sqlite3.connect()|db.connect()|sql.connect()|connect.db()|1
+Which of these is a valid way to declare a class in Python? |class MyClass:|def MyClass:|MyClass()|create class MyClass|1
+Which of these is a valid way to create a virtual environment using venv? |python -m venv env|venv create env|create venv env|python venv env|1
+Which of these is used to manage cloud infrastructure as code? |Terraform|Docker|Git|Jenkins|1
+Which of these is a valid way to define a constructor in Java? |public MyClass()|constructor MyClass()|MyClass()|init MyClass()|1
+Which of these is used to monitor application performance? |New Relic|Slack|GitHub|VS Code|1
+Which of these is a valid way to declare a set in Python? |set()|{}|[]|()|1
+Which of these is used to automate deployment pipelines? |Jenkins|Git|Docker|Postman|1
+Which of these is a valid way to create a branch in Git? |git branch new_branch|git create branch|git new branch|git make branch|1
+Which of these is used to manage cloud resources in AWS? |EC2|S3|CloudFormation|Lambda|3
+Which of these is a valid way to write a lambda function in Python? |lambda x: x+1|def x: x+1|function x: x+1|x => x+1|1
+Which of these is a valid way to import a module in Python? |import module|include module|require module|load module|1
+Which of these is used to manage containers in production? |Kubernetes|Docker|Git|Jenkins|1
+Which of these is a valid way to define a dictionary in Python? |dict = {'a':1}|dict = ['a':1]|dict = ('a':1)|dict = <'a':1>|1
+Which of these is used to manage secrets in cloud apps? |Vault|Git|Docker|Slack|1
+Which of these is a valid way to define a tuple in Python? |tuple = (1,2)|tuple = [1,2]|tuple = {1,2}|tuple = <1,2>|1
+Which of these is used to manage cloud functions? |Lambda|EC2|S3|RDS|1
+Which of these is a valid way to declare an interface in Java? |interface MyInterface|class MyInterface|abstract MyInterface|define MyInterface|1
+Which of these is used to manage CI/CD pipelines? |Jenkins|GitHub|Slack|VS Code|1
+Which of these is a valid way to write a SQL join? |SELECT * FROM A JOIN B|SELECT * FROM A MERGE B|SELECT * FROM A COMBINE B|SELECT * FROM A LINK B|1
+Which of these is used to manage Python environments? |conda|npm|yarn|brew|1
+Which of these is a valid way to declare a boolean in Java? |boolean flag = true;|bool flag = true;|flag = true;|boolean = true;|1
+Which of these is used to manage infrastructure in Azure? |ARM Templates|CloudFormation|Terraform|Lambda|1
+Which of these is a valid way to declare a float in Python? |x = 3.14|x = float|x = "3.14"|x = float(3.14)|4
+Which of these is used to manage Python packages? |pip|npm|yarn|brew|1
+Which of these is a valid way to define a method in Java? |public void method()|def method()|function method()|method()|1
+Which of these is used to manage cloud storage? |S3|EC2|Lambda|RDS|1
+Which of these is a valid way to declare an array in C? |int arr[10];|array arr[10];|int arr = [10];|arr = int[10];|1
+Which of these is used to manage Kubernetes clusters? |kubectl|dockerctl|gitctl|jenkinsctl|1
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of DNS? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of IPv6 in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 4
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+In Software Engineering, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, Inheritance is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Stack? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 4
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What does Multithreading stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 2
+What does Deadlock stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of OSI Model in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of OSI Model in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What does TCP/IP stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Machine Learning Model in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Stack in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, which of the following is correct about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Agile Methodology is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Agile Methodology in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Unit Testing in Database Management? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+What does REST API stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Agile Methodology in Database Management? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Inheritance in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Cloud Storage in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Stack? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 3
+In Cyber Security, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+In Computer Networks, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Recursion in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+What does Deadlock stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Hash Table in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of HTTP in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Machine Learning Model in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 3
+What does Multithreading stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of DNS in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Stack? ? Option 1  Option 2  Option 3  Option 4 2
+What does Process Scheduling stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, REST API is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Hash Table in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Load Balancer in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Binary Search in Algorithms? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Queue in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Process Scheduling in Database Management? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about REST API? ? Option 1  Option 2  Option 3  Option 4 2
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of SQL Injection in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 1
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Stack? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+What does Process Scheduling stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, Queue is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Virtualization in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Cloud Storage in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does DNS stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 4
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+In Computer Networks, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Binary Search in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Stack in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Agile Methodology in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Binary Search in Algorithms? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+What does Deadlock stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+What does Deadlock stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, which of the following is correct about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+In Software Engineering, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Agile Methodology in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Cloud Storage in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, DNS is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Unit Testing in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 3
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Unit Testing in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of DNS in Algorithms? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of OSI Model in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+In Computer Networks, DNS is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Hash Table in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, TCP/IP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Overloading in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Agile Methodology in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Recursion in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Queue in Database Management? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Unit Testing in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Virtualization in Algorithms? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Queue in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 3
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Agile Methodology in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 1
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of OSI Model in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of SQL Injection in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+In Cyber Security, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Docker? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Load Balancer in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Agile Methodology in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Docker? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes DNS? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Queue is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Overloading in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of OSI Model in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Agile Methodology in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Hash Table in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of TCP/IP in Data Structures? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of SQL Injection in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Encapsulation in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 1
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Normalization in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Load Balancer in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+What does Deadlock stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Computer Networks, which of the following is correct about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of OSI Model in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, HTTP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Recursion in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Kubernetes in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Virtualization in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of DNS in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of SQL Injection in Database Management? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of TCP/IP in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Process Scheduling in Database Management? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of HTTP in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, which of the following is correct about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Queue? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Docker? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Stack in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to REST API? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, TCP/IP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 1
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What does DNS stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Inheritance in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 2
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Stack? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, HTTP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of IPv6 in Database Management? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about REST API? ? Option 1  Option 2  Option 3  Option 4 3
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Load Balancer in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What does TCP/IP stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Normalization in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Machine Learning Model in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 3
+In Cyber Security, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, Queue is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Firewall in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+What does REST API stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Overloading in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Unit Testing in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Docker in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Stack in Database Management? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Stack in Database Management? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Docker? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+What does TCP/IP stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Computer Networks, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Inheritance in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Queue? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Unit Testing in Algorithms? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of DNS in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of REST API in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, which of the following is correct about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 4
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Process Scheduling in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Load Balancer in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+In Computer Networks, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Stack in Data Structures? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Queue in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 3
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 1
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+In Cyber Security, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Overloading in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, which of the following is correct about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of DNS in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Inheritance in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Computer Networks, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Load Balancer in Data Structures? ? Option 1  Option 2  Option 3  Option 4 4
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, Inheritance is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of REST API in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What does DNS stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Docker in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 1
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of DNS? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Stack in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Process Scheduling in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, REST API is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of SQL Injection in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Recursion in Data Structures? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes REST API? ? Option 1  Option 2  Option 3  Option 4 4
+What does Process Scheduling stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Overloading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does HTTP stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Firewall in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Inheritance in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of HTTP in Algorithms? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 4
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, which of the following is correct about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+What does HTTP stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 1
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Hash Table in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 4
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Queue? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Overloading in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Cloud Storage in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Multithreading in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, Agile Methodology is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, Inheritance is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of OSI Model in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Multithreading in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Machine Learning, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Agile Methodology in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Firewall in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about DNS? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of IPv6 in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of SQL Injection in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Load Balancer in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of IPv6 in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of REST API in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Normalization in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, DNS is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Machine Learning Model in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, which of the following is correct about Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, Binary Search is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of HTTP in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, DNS is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Operating Systems, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Load Balancer in Algorithms? ? Option 1  Option 2  Option 3  Option 4 1
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Load Balancer in Data Structures? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Binary Search in Data Structures? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Cloud Storage in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Inheritance in Data Structures? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Queue? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of IPv6 in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does DNS stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Kubernetes in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 2
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Hash Table in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of SQL Injection in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of SQL Injection in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, REST API is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+In Operating Systems, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of TCP/IP in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Inheritance in Algorithms? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, Agile Methodology is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Agile Methodology in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 3
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of OSI Model in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Binary Search in Data Structures? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Kubernetes in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to REST API? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Queue in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Process Scheduling in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Binary Search in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 4
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+In Cyber Security, which of the following is correct about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, REST API is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Queue is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+What does Load Balancer stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Cyber Security, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of TCP/IP in Data Structures? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Queue? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, Virtualization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of REST API in Data Structures? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+In Cloud Computing, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Firewall? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of IPv6 in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Stack is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 2
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+What does Normalization stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Load Balancer in Algorithms? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Inheritance in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What does REST API stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+What does Binary Search stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Binary Search in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+In Database Management, which of the following is correct about OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Stack in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Queue in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Cyber Security, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+What does TCP/IP stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, which of the following is correct about Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+What does HTTP stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of IPv6 in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, which of the following is correct about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, REST API is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Agile Methodology in Database Management? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, Load Balancer is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Deadlock? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, which of the following is correct about Recursion? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, which of the following is correct about Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 2
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Machine Learning Model in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Encapsulation in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Firewall in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 3
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, HTTP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Normalization in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 2
+What does Machine Learning Model stand for? ? Option 1  Option 2  Option 3  Option 4 1
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, which of the following is correct about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using DNS? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Docker in Operating Systems? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using REST API? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Stack in Data Structures? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of HTTP in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of OSI Model in Machine Learning? ? Option 1  Option 2  Option 3  Option 4 2
+What does OSI Model stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 2
+What does Process Scheduling stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of OSI Model in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of DNS? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Recursion in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Docker? ? Option 1  Option 2  Option 3  Option 4 3
+In Algorithms, which of the following is correct about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Stack in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Recursion? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Overloading? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Recursion in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 4
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Data Structures, which of the following is correct about Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes REST API? ? Option 1  Option 2  Option 3  Option 4 2
+In Computer Networks, Queue is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Recursion in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to DNS? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What does REST API stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Overloading? ? Option 1  Option 2  Option 3  Option 4 3
+In Web Technologies, Firewall is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Docker stand for? ? Option 1  Option 2  Option 3  Option 4 3
+In Cloud Computing, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes Docker? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about DNS? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+In Programming Concepts, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to TCP/IP? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+In Cloud Computing, which of the following is correct about Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, Agile Methodology is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Recursion in Programming Concepts? ? Option 1  Option 2  Option 3  Option 4 1
+In Data Structures, which of the following is correct about Stack? ? Option 1  Option 2  Option 3  Option 4 3
+In Data Structures, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+In Machine Learning, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, which of the following is correct about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+What does Queue stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Queue? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about HTTP? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What does IPv6 stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Binary Search? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+What does Stack stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, Multithreading is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Load Balancer in Software Engineering? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using IPv6? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, TCP/IP is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Binary Search? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Multithreading? ? Option 1  Option 2  Option 3  Option 4 3
+What does TCP/IP stand for? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, which of the following is correct about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 1
+What does Hash Table stand for? ? Option 1  Option 2  Option 3  Option 4 2
+What does REST API stand for? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of Firewall in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, which of the following is correct about Overloading? ? Option 1  Option 2  Option 3  Option 4 4
+In Database Management, OSI Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Firewall? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+What does Overloading stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+In Web Technologies, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using TCP/IP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Deadlock? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Recursion? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+In Web Technologies, Unit Testing is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following best describes HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Recursion in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about TCP/IP? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 4
+In Software Engineering, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using OSI Model? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Stack in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, which of the following is correct about Hash Table? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about SQL Injection? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+In Computer Networks, which of the following is correct about Queue? ? Option 1  Option 2  Option 3  Option 4 2
+In Programming Concepts, Hash Table is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Encapsulation in Data Structures? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 1
+In Web Technologies, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Recursion is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Docker? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Recursion? ? Option 1  Option 2  Option 3  Option 4 1
+What does DNS stand for? ? Option 1  Option 2  Option 3  Option 4 4
+In Algorithms, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 1
+In Software Engineering, which of the following is correct about Normalization? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Kubernetes? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Inheritance in Computer Networks? ? Option 1  Option 2  Option 3  Option 4 3
+Which statement is true about Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+What is the advantage of using Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to OSI Model? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following best describes Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Virtualization? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+What does SQL Injection stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Encapsulation? ? Option 1  Option 2  Option 3  Option 4 1
+In Database Management, which of the following is correct about Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about REST API? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Multithreading? ? Option 1  Option 2  Option 3  Option 4 1
+In Computer Networks, which of the following is correct about Docker? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of OSI Model in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 1
+In Operating Systems, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Programming Concepts, Deadlock is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+In Machine Learning, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of HTTP in Cyber Security? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Docker? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Unit Testing? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 2
+In Database Management, which of the following is correct about IPv6? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+In Software Engineering, Machine Learning Model is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of REST API? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Cloud Storage? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, Process Scheduling is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following best describes Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What does Encapsulation stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+In Operating Systems, Encapsulation is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 2
+What does Recursion stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is an example of Stack? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to HTTP? ? Option 1  Option 2  Option 3  Option 4 1
+In Cyber Security, Docker is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Process Scheduling in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 2
+Which of the following is not related to Inheritance? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using Docker? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+What is the main function of Unit Testing in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+In Software Engineering, Cloud Storage is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+In Algorithms, Normalization is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which statement is true about Inheritance? ? Option 1  Option 2  Option 3  Option 4 2
+In Software Engineering, SQL Injection is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 3
+What does Kubernetes stand for? ? Option 1  Option 2  Option 3  Option 4 2
+In Algorithms, which of the following is correct about Multithreading? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+In Programming Concepts, DNS is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 1
+What does Firewall stand for? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Inheritance? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to Docker? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is an example of Hash Table? ? Option 1  Option 2  Option 3  Option 4 2
+In Computer Networks, IPv6 is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of DNS in Web Technologies? ? Option 1  Option 2  Option 3  Option 4 4
+What does Agile Methodology stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Normalization? ? Option 1  Option 2  Option 3  Option 4 4
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes SQL Injection? ? Option 1  Option 2  Option 3  Option 4 4
+What does Virtualization stand for? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is an example of Unit Testing? ? Option 1  Option 2  Option 3  Option 4 2
+In Data Structures, which of the following is correct about OSI Model? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following best describes IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+What is the main function of Binary Search in Algorithms? ? Option 1  Option 2  Option 3  Option 4 4
+In Cloud Computing, which of the following is correct about Unit Testing? ? Option 1  Option 2  Option 3  Option 4 3
+What is the main function of IPv6 in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Process Scheduling? ? Option 1  Option 2  Option 3  Option 4 3
+What is the advantage of using HTTP? ? Option 1  Option 2  Option 3  Option 4 2
+Which of these is the correct example of IPv6? ? Option 1  Option 2  Option 3  Option 4 1
+What is the main function of Inheritance in Cloud Computing? ? Option 1  Option 2  Option 3  Option 4 2
+What is the advantage of using Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+In Machine Learning, Kubernetes is used for what purpose? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Deadlock? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Firewall? ? Option 1  Option 2  Option 3  Option 4 4
+In Computer Networks, which of the following is correct about Machine Learning Model? ? Option 1  Option 2  Option 3  Option 4 2
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What does Unit Testing stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which statement is true about Queue? ? Option 1  Option 2  Option 3  Option 4 3
+What does Cloud Storage stand for? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is an example of Virtualization? ? Option 1  Option 2  Option 3  Option 4 3
+Which of these is the correct example of Stack? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to SQL Injection? ? Option 1  Option 2  Option 3  Option 4 1
+Which of these is the correct example of Load Balancer? ? Option 1  Option 2  Option 3  Option 4 3
+Which of the following is not related to Unit Testing? ? Option 1  Option 2  Option 3  Option 4 1
+Which of the following is not related to Kubernetes? ? Option 1  Option 2  Option 3  Option 4 4
+What is the advantage of using Load Balancer? ? Option 1  Option 2  Option 3  Option 4 1
+What does Process Scheduling stand for? ? Option 1  Option 2  Option 3  Option 4 4
+What does Multithreading stand for? ? Option 1  Option 2  Option 3  Option 4 4
+Which of the following is not related to IPv6? ? Option 1  Option 2  Option 3  Option 4 2
+Which statement is true about Agile Methodology? ? Option 1  Option 2  Option 3  Option 4 4
+Which of these is the correct example of Encapsulation? ? Option 1  Option 2  Option 3  Option 4 3
+What does Inheritance stand for? ? Option 1  Option 2  Option 3  Option 4 2
